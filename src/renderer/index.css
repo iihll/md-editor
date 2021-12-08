@@ -15,3 +15,14 @@ code {
 #root {
   height: 100%;
 }
+
+.app {
+  background-color: #2c313a;
+  display: flex;
+  flex-direction: row;
+  height: 100%;
+}
+
+button {
+  font-size: calc(10px + 2vmin);
+}

@@ -1,5 +1,6 @@
 import useCodeMirror from 'renderer/userCodeMirror';
 import React, { useCallback, useEffect } from 'react';
+import './index.css';
 
 interface Props {
   initialDoc: string;
